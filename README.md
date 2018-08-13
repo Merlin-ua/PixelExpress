@@ -1,6 +1,6 @@
-<table align="center">
-  <tr><td>[About](#about)</td><td>[FAQ](#faq)</td><td>[Contacts](#contacts)</td></tr>
-</table>
+
+| [About](#about) | [FAQ](#faq) | [Contacts](#contacts) |
+| --------------- | ----------- | --------------------- |
 
 ---
 
