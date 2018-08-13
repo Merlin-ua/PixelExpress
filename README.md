@@ -1,3 +1,5 @@
+|[About](#about)|[FAQ](#faq)|[Contacts](#contacts)|
+|-|-|-|
 ## About
 
 Pixel Express is a game about managing trains. It can be classified as an arcade game with pixel-art graphics. Each chapter has its own setting. For example, first chapter is set in Wild West.
