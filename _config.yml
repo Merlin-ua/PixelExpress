@@ -1,6 +1,6 @@
 description: The game website
 title: Pixel Express
 headline: Pixel Express
-theme: jekyll-theme-tactile
 logo: /img/main icon.png
 show_downloads: false
+theme: jekyll-theme-minimal
