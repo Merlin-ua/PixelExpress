@@ -1,8 +1,7 @@
 
-| --------------- | ----------- | --------------------- |
-| [About](#about) | [FAQ](#faq) | [Contacts](#contacts) |
+--------------- | ----------- | ---------------------
+[About](#about) | [FAQ](#faq) | [Contacts](#contacts)
 
----
 
 ## About
 
