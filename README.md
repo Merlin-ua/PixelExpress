@@ -11,9 +11,9 @@ Pixel Express is a game about managing trains. It can be classified as an arcade
 ## FAQ
 
 - What is the current state of the game?
- - In active development. No public build available yet.
+  - In active development. No public build available yet.
 - What are the target platforms for the game?
- - All popular desktop and mobile platforms (Win, Mac, GNU/Linux, Android, iOS).
+  - All popular desktop and mobile platforms (Win, Mac, GNU/Linux, Android, iOS).
 
 ## Contacts
 
