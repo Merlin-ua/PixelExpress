@@ -4,3 +4,4 @@ headline: Pixel Express
 logo: /img/main icon.png
 show_downloads: false
 theme: jekyll-theme-minimal
+markdown: kramdown
